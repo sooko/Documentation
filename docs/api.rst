@@ -4,7 +4,7 @@ HDiagPro
 `HDiagPRo  <https://www.sooko.io/hdiag-pro-remap-ecm-honda/>`_
 
 
-Hardware Initial
+Hardware OverView
 """"""""""""""""
 
  ::
@@ -13,6 +13,10 @@ Hardware Initial
     2. Ble Dongle
     3. 3 wire BDM to connect with ECU direcly
     4. adaptor 5 to 12 volt
+    5. 4 pins DLC Connector
+    6. euro 5 DLC Connector
+    7. Backdor kit
+    8. USB Cable
 
 
 
